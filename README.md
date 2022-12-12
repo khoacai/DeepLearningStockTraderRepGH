@@ -1,2 +1,2 @@
 # DeepLearningStockTraderRepGH
-The project for applying ML to trade stocks (using Python)
+This project is created for applying ML to trade stocks.
